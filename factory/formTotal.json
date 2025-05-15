@@ -1,0 +1,9 @@
+{
+	"name": "formTotal",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d4eb7bbc-0b92-46e9-b63e-cc54f7ff817e",
+		"tenantId": "81e7c4de-26c9-4531-b076-b70e2d75966e"
+	}
+}
